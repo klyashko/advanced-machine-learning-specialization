@@ -10,4 +10,8 @@ data
 #files
 *.hdf5
 *.h5
+*.pickle
+*.zip
+*.index
+*.meta
 
