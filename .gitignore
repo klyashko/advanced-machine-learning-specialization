@@ -4,8 +4,10 @@
 .ipynb_checkpoints
 __pycache__
 review
+to_review
 data
 readonly
+submissions
 
 
 #files
